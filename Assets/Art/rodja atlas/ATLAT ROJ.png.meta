@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 38ae01baa4fa3e246b13f995502aee8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2224962674200547428
+    second: ATLAT ROJ_0
+  - first:
+      213: -6225820726343526693
+    second: ATLAT ROJ_1
+  - first:
+      213: 6228535318358042741
+    second: ATLAT ROJ_2
+  - first:
+      213: -4744894127105912775
+    second: ATLAT ROJ_3
+  - first:
+      213: -6068502219749628567
+    second: ATLAT ROJ_4
+  - first:
+      213: -4750876089745713992
+    second: ATLAT ROJ_5
+  - first:
+      213: 1490278404910050043
+    second: ATLAT ROJ_6
+  - first:
+      213: 8886091798277038082
+    second: ATLAT ROJ_7
+  - first:
+      213: 7311955555768062785
+    second: ATLAT ROJ_8
+  - first:
+      213: 6487991032084406025
+    second: ATLAT ROJ_9
+  - first:
+      213: -4451757443260017476
+    second: ATLAT ROJ_10
+  - first:
+      213: -4531328289004750277
+    second: ATLAT ROJ_11
+  - first:
+      213: -671451991059533282
+    second: ATLAT ROJ_12
+  - first:
+      213: -8627303363516140524
+    second: ATLAT ROJ_13
+  - first:
+      213: 3598581386474164730
+    second: ATLAT ROJ_14
+  - first:
+      213: -8587403947592670515
+    second: ATLAT ROJ_15
+  - first:
+      213: 6994731831346673204
+    second: ATLAT ROJ_16
+  - first:
+      213: -405413604628824876
+    second: ATLAT ROJ_17
+  - first:
+      213: 596618388182898794
+    second: ATLAT ROJ_18
+  - first:
+      213: -3436377979685567945
+    second: ATLAT ROJ_19
+  - first:
+      213: 700026025195199434
+    second: ATLAT ROJ_20
+  - first:
+      213: -616621102890229946
+    second: ATLAT ROJ_21
+  - first:
+      213: 5950553127524089628
+    second: ATLAT ROJ_22
+  - first:
+      213: -8771306404091584352
+    second: ATLAT ROJ_23
+  - first:
+      213: -7996559215488501818
+    second: ATLAT ROJ_24
+  - first:
+      213: -3514574452322178499
+    second: ATLAT ROJ_25
+  - first:
+      213: -2404373459324081734
+    second: ATLAT ROJ_26
+  - first:
+      213: -4600634655260441342
+    second: ATLAT ROJ_27
+  - first:
+      213: 3222697426404301621
+    second: ATLAT ROJ_28
+  - first:
+      213: 3361970514220123998
+    second: ATLAT ROJ_29
+  - first:
+      213: 8655574638622701188
+    second: ATLAT ROJ_30
+  - first:
+      213: 6352130378933313132
+    second: ATLAT ROJ_31
+  - first:
+      213: 8215958244492232040
+    second: ATLAT ROJ_32
+  - first:
+      213: 7310956437617385424
+    second: ATLAT ROJ_33
+  - first:
+      213: 3635462048904323233
+    second: ATLAT ROJ_34
+  - first:
+      213: -4995528064992883534
+    second: ATLAT ROJ_35
+  - first:
+      213: 2102356215186181491
+    second: ATLAT ROJ_36
+  - first:
+      213: -8153891317667758633
+    second: ATLAT ROJ_37
+  - first:
+      213: -9211185476989773939
+    second: ATLAT ROJ_38
+  - first:
+      213: 6682885687417346477
+    second: ATLAT ROJ_39
+  - first:
+      213: -394169749600401751
+    second: ATLAT ROJ_40
+  - first:
+      213: -7086807141112112185
+    second: ATLAT ROJ_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATLAT ROJ_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3040
+        width: 383
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4601a3a83c7a0ee10800000000000000
+      internalID: 2224962674200547428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3021
+        width: 469
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6970309017999a0800000000000000
+      internalID: -6225820726343526693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_2
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2928
+        width: 469
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a4b13fd3307650800000000000000
+      internalID: 6228535318358042741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_3
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2933
+        width: 352
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d3015eefb62eb0800000000000000
+      internalID: -4744894127105912775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_4
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 2929
+        width: 354
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9656729226958cba0800000000000000
+      internalID: -6068502219749628567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_5
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 2931
+        width: 353
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45fca1e5f711eb0800000000000000
+      internalID: -4750876089745713992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2929
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa691d30588ea410800000000000000
+      internalID: 1490278404910050043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2929
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a0d5f86db15b70800000000000000
+      internalID: 8886091798277038082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2929
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143dffa66d8497560800000000000000
+      internalID: 7311955555768062785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_9
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2929
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9f450879f90a50800000000000000
+      internalID: 6487991032084406025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_10
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2928
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41948113e2832c0800000000000000
+      internalID: -4451757443260017476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2548
+        width: 378
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a713dddec7d11c0800000000000000
+      internalID: -4531328289004750277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2352
+        width: 467
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12fa2db8f58ea6f0800000000000000
+      internalID: -671451991059533282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_13
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2354
+        width: 517
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4147610ec49a54880800000000000000
+      internalID: -8627303363516140524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_14
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2251
+        width: 432
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1102474bab0f130800000000000000
+      internalID: 3598581386474164730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_15
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2251
+        width: 432
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2a3f09b9963d880800000000000000
+      internalID: -8587403947592670515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2101
+        width: 336
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436398a7a87421160800000000000000
+      internalID: 6994731831346673204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_17
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2262
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcfcfc797eaf5af0800000000000000
+      internalID: -405413604628824876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_18
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2262
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689b16534d974800800000000000000
+      internalID: 596618388182898794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2260
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320ed62f688f40d0800000000000000
+      internalID: -3436377979685567945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2262
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd94506fdf6b900800000000000000
+      internalID: 700026025195199434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_21
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2262
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd739bf525177f0800000000000000
+      internalID: -616621102890229946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_22
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 2234
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb927ca8c949250800000000000000
+      internalID: 5950553127524089628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_23
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2260
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a023004c4f064680800000000000000
+      internalID: -8771306404091584352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1585
+        width: 331
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77e67d2c3860190800000000000000
+      internalID: -7996559215488501818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1551
+        width: 1122
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a6ca81829b93fc0800000000000000
+      internalID: -3514574452322178499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_26
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1766
+        width: 612
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96c91e313f1aed0800000000000000
+      internalID: -2404373459324081734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_27
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 1753
+        width: 611
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20589dff7234720c0800000000000000
+      internalID: -4600634655260441342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1057
+        width: 382
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bd4671c3259bc20800000000000000
+      internalID: 3222697426404301621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_29
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 907
+        width: 583
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578d65ce5e18ae20800000000000000
+      internalID: 3361970514220123998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_30
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1077
+        width: 431
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867cfd4647ce1870800000000000000
+      internalID: 8655574638622701188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_31
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1055
+        width: 431
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9943bcec472850800000000000000
+      internalID: 6352130378933313132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_32
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1073
+        width: 432
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c66c4e72f40270800000000000000
+      internalID: 8215958244492232040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 729
+        width: 1084
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1a88152cb57560800000000000000
+      internalID: 7310956437617385424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_34
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 494
+        width: 431
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a02b53d871c37230800000000000000
+      internalID: 3635462048904323233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_35
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 494
+        width: 431
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcca9c31b15caab0800000000000000
+      internalID: -4995528064992883534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_36
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 494
+        width: 431
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dc185c6d11d2d10800000000000000
+      internalID: 2102356215186181491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 499
+        width: 367
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd75493c0f87de80800000000000000
+      internalID: -8153891317667758633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 521
+        width: 401
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8799c39c9b4b2080800000000000000
+      internalID: -9211185476989773939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_39
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 538
+        width: 395
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99d0110216ebc50800000000000000
+      internalID: 6682885687417346477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_40
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 510
+        width: 384
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a60ddd73b0a78af0800000000000000
+      internalID: -394169749600401751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAT ROJ_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 23
+        width: 1082
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9f42e37a96ad90800000000000000
+      internalID: -7086807141112112185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
